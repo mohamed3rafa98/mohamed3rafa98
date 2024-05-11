@@ -1,9 +1,9 @@
 
-<img width="250" align="right" src="https://c.tenor.com/papK2E3wvMEAAAAd/fwow-ai.gif">
+
 
 <h3 align="center">
   Welcome to Mohamed 3rafa's profile!
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   
 </h3>
 
